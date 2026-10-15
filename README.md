@@ -1,13 +1,12 @@
-# Privacy-policy-idle-dogbakery
+# Privacy Policy — Dog Bakery
 
-**Last updated:** 15-10-2026
+**Last updated:** 15 October 2026
 
 This Privacy Policy explains how **Dog Bakery** (the "App", "we", "us") handles information
 when you play it on iOS or Android.
 
-**Data controller:**  Robin Alwert, 183 56 Täby, Sweden.
-Contact: Ralwert@outlook.com
-
+**Data controller:** Robin, Täby, Sweden.
+Contact: [Ralwert@outlook.com](mailto:Ralwert@outlook.com)
 
 ## Summary
 
@@ -111,10 +110,6 @@ Google's own purposes.)
 - **Performance of a contract** (Art. 6(1)(b) GDPR): storing your game progress on your device
   so the game works.
 
-> Owner note: have a lawyer confirm these bases. Google's UMP / IAB TCF message determines the
-> exact purposes consent is asked for; keep this section consistent with the message you
-> publish in AdMob → Privacy & messaging.
-
 ## 6. Sharing and international transfers
 
 We don't sell your personal data. We have no access to the data Google collects through the ad
@@ -160,6 +155,5 @@ notes.
 
 ## 12. Contact
 
-Robin Alwert\
-183 56 Täby, Sweden\
-Email: Ralwert@outlook.com
+Robin, Täby, Sweden\
+Email: [Ralwert@outlook.com](mailto:Ralwert@outlook.com)
