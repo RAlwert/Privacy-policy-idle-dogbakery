@@ -5,7 +5,7 @@
 This Privacy Policy explains how **Dog Bakery** (the "App", "we", "us") handles information
 when you play it on iOS or Android.
 
-**Data controller:**  Robin, Täby, Sweden.
+**Data controller:**  Robin Alwert, 183 56 Täby, Sweden.
 Contact: Ralwert@outlook.com
 
 
@@ -121,8 +121,7 @@ We don't sell your personal data. We have no access to the data Google collects 
 SDK; Google processes it as an independent controller (and, for some purposes, as our
 processor) under the Google Ads Controller-Controller Data Protection Terms and its EU User
 Consent Policy. Google may process data in the United States. Such transfers are covered by the
-EU–US Data Privacy Framework and/or Standard Contractual Clauses [verify in Google's current
-terms].
+EU–US Data Privacy Framework and/or Standard Contractual Clauses.
 
 ## 7. Retention and deletion
 
@@ -161,6 +160,6 @@ notes.
 
 ## 12. Contact
 
-Robin\
-Täby, Sweden\
+Robin Alwert\
+183 56 Täby, Sweden\
 Email: Ralwert@outlook.com
